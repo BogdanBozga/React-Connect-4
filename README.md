@@ -1,3 +1,8 @@
+
+# Short decription
+This is a implementation of the classic game connect-4, you have a 6x7 array, each player plase a color at a time, the color will go automaticaly to the botom. When one of the player manage to put for of the same color (in a row, line or diagonal) he win.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
